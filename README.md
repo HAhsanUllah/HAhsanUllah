@@ -1,7 +1,7 @@
 <h1 align="center">  Hi 👋, I'm H Ahsan Ullah </h1>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Student%20Ambassador%20at%20Microsoft;GDSC%20Marketing%20SubHead;External%20Affair%20Head%20At%20CMC%20Islamabad;%20CS%204th%20Semester;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Student%20Ambassador%20at%20Microsoft;GDSC%20Marketing%20SubHead;External%20Affair%20Head%20At%20CMC%20Islamabad;%20CS%205th%20Semester;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
