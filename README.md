@@ -1,7 +1,7 @@
 <h1 align="center">  Hi 👋, I'm H Ahsan Ullah </h1>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Student%20Ambassador%20at%20Microsoft;GDSC%20Marketing%20SubHead;External%20Affair%20Head%20At%20CMC%20Islamabad;%20CS%205th%20Semester;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Student%20Ambassador%20at%20Microsoft;GDSC%20Marketing%20SubHead;External%20Affair%20Head%20At%20CMC%20Islamabad;%20CS%207th%20Semester;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -11,12 +11,12 @@
  
 - 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
 - 📫 How to reach me **ahsanullahfarooqi73@gmail.com**
-- 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning Java.\
-- 🔭 I’m currently working on **OOP , DSA**
-- 🌱 I’m currently learning **Web development , App Development **
-- 👯 I’m looking to collaborate on **Google and Microsoft**
-- 👯 I’m looking to collaborate on open source.
+- 🌐 Exploring the Digital Universe
+- 🔭 Unleashing AI & ML with Python's Power 🐍
+- 🌱 Mastering OOP & DSA with Java's Brew ☕️
+- 💻 Mastering MERN: Crafting Web & App Wonders 📱🚀
+- 📱 Reacting to Brilliance: Building Apps with React Native 🚀
+- 👯 Let's Code Together: Collaboration Welcome in Web & App Dev! 🚀
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, Urdu, Panjabi)
